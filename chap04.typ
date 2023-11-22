@@ -591,7 +591,9 @@ effect and can indeed become irretrievably dead.
 The wizard focuses their sight on the unambiguous truth of matter,
 enabling them to see through illusions for the next 10 minutes.
 
-\#\#\# Undo \(double cost of original Spell) The wizard disentangles a
+=== Undo \(double cost of original Spell) 
+
+The wizard disentangles a
 Spell from this instance of reality. To do so they must Roll Versus the
 original casting if disentanglement is possible at all.
 
