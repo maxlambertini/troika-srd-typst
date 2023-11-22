@@ -259,7 +259,7 @@ creatures of raw surfaces, untreated stucco, brass armature, and soggy
 wet clay seek meaning, Dwarfiness, and to be finished by a sure and
 careful hand.
 
-==== Dragon
+=== Dragon
 <dragon>
 - Skill 16
 - Stamina 32
@@ -289,7 +289,21 @@ Special Once per Round they may douse a 24 foot area in beautiful
 Dragon-Fire. Everyone in the area is automatically hit but may Test
 their Luck to reduce the Damage Roll by 1.
 
-1 | 2 | 3 | 4 | 5 | 6 | 7+ 6 | 8 | 12 | 16 | 18 | 24 | 36
+#align(center)[#table(
+  columns: 8,
+  align: (col, row) => (auto,auto,auto,auto,auto,auto,auto,auto,).at(col),
+  inset: 6pt,
+  [roll], [1], [2], [3], [4], [5], [6], [7+],
+  [damage],
+  [6],
+  [8],
+  [12],
+  [16],
+  [18],
+  [24],
+  [36],
+)
+]
 
 Dragons are immune to high temperatures, including Dragon-Fire.
 
