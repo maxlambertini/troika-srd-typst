@@ -1128,6 +1128,8 @@ demi-gods and tyrants obsessed with preventing the future they fled.
 
 Damage as Modest Beast
 
+#colbreak()
+
 ==== Mien
 <mien-37>
 + Playful

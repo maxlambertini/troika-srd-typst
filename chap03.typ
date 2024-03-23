@@ -608,6 +608,8 @@ Used for lifting and breaking things. May also be used to grapple people
 if no grappling-appropriate Weapon Skill is possessed, though it counts
 for half rounded up.
 
+#colbreak()
+
 === Swim
 <swim>
 Use this while swimming in dangerous waters, diving, holding your breath
@@ -653,5 +655,8 @@ from Jousting to Gambling to Eating. Skills are primarily used as
 flavour and the occasional fun instance where your incredibly specific
 and heretofore useless ability helps you and your friends out is
 priceless.
+
+#v(36pt)
+
 ]
 

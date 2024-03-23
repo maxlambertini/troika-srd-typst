@@ -1014,10 +1014,16 @@ civilisation. You are probably nude.
 - 2 Club Fighting
 - 2 Wrestling
 
+#colbreak()
+
 ==== Special
 <special-13>
 You are immune to all mind altering effects. You are able to speak but
 usually choose not to. When making Advancement Checks for Skills related
 to abstract thought, such as Spells or Astrology, you must roll twice
 and succeed on both to improve them.
+
+#v(36pt)
+
 ]
+

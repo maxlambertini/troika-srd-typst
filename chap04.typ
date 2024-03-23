@@ -620,8 +620,12 @@ wizard blows forth the "web" from their nose and all in a cone extending
 \(or Skill for Enemies). Each Turn anything passing through or out of it
 must repeat the Test or become stuck. Dries up after 12 rounds.
 
+#colbreak()
+
 === Zed \(?)
 <zed>
 No one knows what this does but everyone who has cast it disappears
 instantly, never to be seen again.
+
+#v(24pt)
 ]
